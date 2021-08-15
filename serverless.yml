@@ -1,4 +1,5 @@
-service: node-in-aws-web
+# service: node-in-aws-web
+service: my-first-app-mme83
 
 frameworkVersion: '2'
 
@@ -18,7 +19,7 @@ plugins:
 
 custom:
   client:
-    bucketName: node-in-aws-web-bucket
+    bucketName: my-first-app-mme83
     distributionFolder: build
   s3BucketName: ${self:custom.client.bucketName}
 
