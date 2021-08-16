@@ -34,3 +34,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### AWS App Links
+[S3-website URL](http://my-first-app-mme83.s3-website-eu-west-1.amazonaws.com/).
+[CloudFront URL](https://dtuo8m32bdcfp.cloudfront.net/)
