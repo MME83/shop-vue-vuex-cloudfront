@@ -3,6 +3,7 @@ build
 .serverless
 
 # Dependencies
+jspm_packages
 node_modules
 /.pnp
 .pnp.js
